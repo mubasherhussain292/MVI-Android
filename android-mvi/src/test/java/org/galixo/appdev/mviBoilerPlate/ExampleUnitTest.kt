@@ -1,4 +1,4 @@
-package org.nxb.appdev.mviBoilerPlate
+package org.galixo.appdev.mviBoilerPlate
 
 import org.junit.Test
 
