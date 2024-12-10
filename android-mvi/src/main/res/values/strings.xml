@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVI Boiler App</string>
+    <string name="splash">Splash</string>
+    <string name="avatar">Avatar</string>
+    <string name="refresh">Refresh</string>
+    <string name="reset">Reset</string>
+</resources>
